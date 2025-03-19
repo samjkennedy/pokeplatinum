@@ -80,7 +80,7 @@ _006F:
     WaitTime 30, VAR_RESULT
     BufferPlayerName 1
     Message 4
-    PlayCry SPECIES_MESPRIT
+    PlayCry SPECIES_SUICUNE
     Message 5
     WaitCry
     CloseMessage

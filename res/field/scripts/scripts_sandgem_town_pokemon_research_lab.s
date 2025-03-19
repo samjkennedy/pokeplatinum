@@ -139,11 +139,11 @@ _01AE:
     ApplyMovement LOCALID_PLAYER, _04E0
     WaitMovement
     SetVar VAR_0x8004, 0
-    GetPartyMonSpecies VAR_0x8004, VAR_RESULT
-    SetVar VAR_0x8008, VAR_RESULT
-    GoToIfEq VAR_0x8008, 0x183, _0219
-    GoToIfEq VAR_0x8008, 0x186, _0219
-    GoToIfEq VAR_0x8008, 0x189, _0219
+    ScrCmd_198 VAR_0x8004, 0x800C
+    SetVar VAR_0x8008, 0x800C
+    GoToIfEq VAR_0x8008, 0x98, _0219
+    GoToIfEq VAR_0x8008, 0x9B, _0219
+    GoToIfEq VAR_0x8008, 0x9E, _0219
     GoTo _0222
 
 _0219:
