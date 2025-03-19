@@ -10,25 +10,25 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_STARLY",
+            "species": "SPECIES_HOOTHOOT",
             "form": 0,
             "level": 7,
             "item": null,
             "moves": [
-                "MOVE_QUICK_ATTACK",
+                "MOVE_TACKLE",
                 "MOVE_GROWL"
             ],
             "power": 30,
             "ball_seal": 0
         },
         {
-            "species": "SPECIES_PIPLUP",
+            "species": "SPECIES_TOTODILE",
             "form": 0,
             "level": 9,
             "item": null,
             "moves": [
-                "MOVE_POUND",
-                "MOVE_GROWL"
+                "MOVE_SCRATCH",
+                "MOVE_WATER_GUN"
             ],
             "power": 30,
             "ball_seal": 0
