@@ -359,8 +359,8 @@ _057A:
     CloseMessage
     ScrCmd_06D 2, 15
     GetPlayerStarterSpecies VAR_RESULT
-    GoToIfEq VAR_RESULT, SPECIES_TURTWIG, Route201_StartFirstBattleTurtwig
-    GoToIfEq VAR_RESULT, SPECIES_CHIMCHAR, Route201_StartFirstBattleChimchar
+    GoToIfEq VAR_RESULT, SPECIES_CHIKORITA, Route201_StartFirstBattleTurtwig
+    GoToIfEq VAR_RESULT, SPECIES_CYNDAQUIL, Route201_StartFirstBattleChimchar
     GoTo Route201_StartFirstBattlePiplup
     End
 
