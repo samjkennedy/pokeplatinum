@@ -10,12 +10,12 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_HOOTHOOT",
+            "species": "SPECIES_SPEAROW",
             "form": 0,
             "level": 7,
             "item": null,
             "moves": [
-                "MOVE_TACKLE",
+                "MOVE_PECK",
                 "MOVE_GROWL"
             ],
             "power": 30,
