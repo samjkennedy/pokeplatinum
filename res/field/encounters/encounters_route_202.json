@@ -2,51 +2,51 @@
     "land_rate": 30,
     "land_encounters": [
         {
-            "level": 3,
-            "species": "SPECIES_MAREEP"
-        },
-        {
-            "level": 3,
-            "species": "SPECIES_SENTRET"
-        },
-        {
-            "level": 4,
-            "species": "SPECIES_PIDGEY"
-        },
-        {
-            "level": 3,
-            "species": "SPECIES_LEDYBA"
-        },
-        {
             "level": 4,
             "species": "SPECIES_MAREEP"
         },
         {
-            "level": 3,
-            "species": "SPECIES_SENTRET"
-        },
-        {
-            "level": 4,
-            "species": "SPECIES_PIDGEY"
-        },
-        {
             "level": 4,
             "species": "SPECIES_SENTRET"
         },
         {
-            "level": 2,
+            "level": 5,
             "species": "SPECIES_SUNKERN"
         },
         {
-            "level": 2,
+            "level": 4,
+            "species": "SPECIES_SPINARAK"
+        },
+        {
+            "level": 5,
+            "species": "SPECIES_MAREEP"
+        },
+        {
+            "level": 4,
             "species": "SPECIES_SENTRET"
         },
         {
-            "level": 2,
+            "level": 5,
+            "species": "SPECIES_SPEAROW"
+        },
+        {
+            "level": 5,
+            "species": "SPECIES_SENTRET"
+        },
+        {
+            "level": 3,
+            "species": "SPECIES_SUNKERN"
+        },
+        {
+            "level": 3,
+            "species": "SPECIES_SENTRET"
+        },
+        {
+            "level": 3,
             "species": "SPECIES_PIDGEY"
         },
         {
-            "level": 2,
+            "level": 3,
             "species": "SPECIES_SUNKERN"
         }
     ],
@@ -55,7 +55,7 @@
         "SPECIES_ZIGZAGOON"
     ],
     "morning": [
-        "SPECIES_PIDGEY",
+        "SPECIES_SPEAROW",
         "SPECIES_SENTRET"
     ],
     "night": [

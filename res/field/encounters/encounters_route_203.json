@@ -3,51 +3,51 @@
     "land_encounters": [
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_SPEAROW"
         },
         {
             "level": 4,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_VULPIX"
         },
         {
             "level": 5,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_MEOWTH"
         },
         {
             "level": 4,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_LEDYBA"
         },
         {
             "level": 5,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SANDSHREW"
         },
         {
             "level": 4,
-            "species": "SPECIES_ABRA"
+            "species": "SPECIES_NATU"
         },
         {
             "level": 5,
-            "species": "SPECIES_ABRA"
+            "species": "SPECIES_NATU"
         },
         {
             "level": 5,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_VULPIX"
         },
         {
             "level": 6,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_SPEAROW"
         },
         {
             "level": 6,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SANDSHREW"
         },
         {
             "level": 7,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_SPEAROW"
         },
         {
             "level": 7,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SANDSHREW"
         }
     ],
     "swarms": [
@@ -55,12 +55,12 @@
         "SPECIES_CUBONE"
     ],
     "morning": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_NATU",
+        "SPECIES_GLIGAR"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
-        "SPECIES_ZUBAT"
+        "SPECIES_MURKROW",
+        "SPECIES_HOOTHOOT"
     ],
     "radar": [
         "SPECIES_BIDOOF",
