@@ -10,25 +10,25 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_STARLY",
+            "species": "SPECIES_SPEAROW",
             "form": 0,
             "level": 7,
             "item": null,
             "moves": [
-                "MOVE_QUICK_ATTACK",
+                "MOVE_PECK",
                 "MOVE_GROWL"
             ],
             "power": 30,
             "ball_seal": 0
         },
         {
-            "species": "SPECIES_CHIMCHAR",
+            "species": "SPECIES_CYNDAQUIL",
             "form": 0,
             "level": 9,
             "item": null,
             "moves": [
-                "MOVE_SCRATCH",
-                "MOVE_LEER"
+                "MOVE_TACKLE",
+                "MOVE_EMBER"
             ],
             "power": 30,
             "ball_seal": 0

@@ -33,6 +33,7 @@
     "flip_sprite": false,
     "learnset": {
         "by_level": [
+            [ 1, "MOVE_ABSORB" ],
             [ 1, "MOVE_SPLASH" ],
             [ 4, "MOVE_SYNTHESIS" ],
             [ 7, "MOVE_TAIL_WHIP" ],

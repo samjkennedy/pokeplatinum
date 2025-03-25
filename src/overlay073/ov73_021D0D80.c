@@ -1102,7 +1102,7 @@ static void ov73_021D1B80(UnkStruct_ov73_021D1058 *param0)
     int v6 = 8;
     int v7 = 10;
 
-    BuildPokemonSpriteTemplate(&v0, 427, 0, 2, 0, 0, 0);
+    BuildPokemonSpriteTemplate(&v0, SPECIES_AIPOM, 0, 2, 0, 0, 0);
 
     v1 = Heap_AllocFromHeap(param0->heapId, (10 * 10) * 2);
 
@@ -1395,7 +1395,7 @@ static BOOL ov73_021D200C(UnkStruct_ov73_021D1058 *param0, int *param1)
         }
     } break;
     case 6:
-        sub_02005844(SPECIES_BUNEARY, 0);
+        sub_02005844(SPECIES_AIPOM, 0);
         v0 = 1;
         break;
     }

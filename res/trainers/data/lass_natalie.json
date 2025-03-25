@@ -9,9 +9,18 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_BIDOOF",
+            "species": "SPECIES_SENTRET",
             "form": 0,
-            "level": 5,
+            "level": 3,
+            "item": null,
+            "moves": null,
+            "power": 0,
+            "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_SPEAROW",
+            "form": 0,
+            "level": 3,
             "item": null,
             "moves": null,
             "power": 0,

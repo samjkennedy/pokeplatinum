@@ -2,52 +2,52 @@
     "land_rate": 30,
     "land_encounters": [
         {
-            "level": 4,
-            "species": "SPECIES_STARLY"
-        },
-        {
-            "level": 4,
-            "species": "SPECIES_BIDOOF"
-        },
-        {
-            "level": 4,
-            "species": "SPECIES_WURMPLE"
-        },
-        {
-            "level": 3,
-            "species": "SPECIES_KRICKETOT"
-        },
-        {
-            "level": 4,
-            "species": "SPECIES_BUDEW"
-        },
-        {
-            "level": 4,
-            "species": "SPECIES_SHINX"
-        },
-        {
-            "level": 5,
-            "species": "SPECIES_BUDEW"
-        },
-        {
-            "level": 5,
-            "species": "SPECIES_SHINX"
-        },
-        {
-            "level": 5,
-            "species": "SPECIES_STARLY"
-        },
-        {
-            "level": 5,
-            "species": "SPECIES_BIDOOF"
+            "level": 6,
+            "species": "SPECIES_HOPPIP"
         },
         {
             "level": 6,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_RATTATA"
         },
         {
             "level": 6,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_PARAS"
+        },
+        {
+            "level": 5,
+            "species": "SPECIES_LEDYBA"
+        },
+        {
+            "level": 6,
+            "species": "SPECIES_EKANS"
+        },
+        {
+            "level": 6,
+            "species": "SPECIES_MAREEP"
+        },
+        {
+            "level": 7,
+            "species": "SPECIES_HOPPIP"
+        },
+        {
+            "level": 7,
+            "species": "SPECIES_MAREEP"
+        },
+        {
+            "level": 7,
+            "species": "SPECIES_EKANS"
+        },
+        {
+            "level": 7,
+            "species": "SPECIES_PHANPY"
+        },
+        {
+            "level": 8,
+            "species": "SPECIES_SANDSHREW"
+        },
+        {
+            "level": 8,
+            "species": "SPECIES_PHANPY"
         }
     ],
     "swarms": [
@@ -55,11 +55,11 @@
         "SPECIES_BIDOOF"
     ],
     "morning": [
-        "SPECIES_WURMPLE",
-        "SPECIES_BUDEW"
+        "SPECIES_PARAS",
+        "SPECIES_HOPPIP"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
+        "SPECIES_SPINARAK",
         "SPECIES_ZUBAT"
     ],
     "radar": [
