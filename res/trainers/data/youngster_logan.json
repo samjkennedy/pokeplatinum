@@ -17,6 +17,29 @@
             ],
             "power": 0,
             "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_LEDYBA",
+            "form": 0,
+            "level": 6,
+            "item": null,
+            "moves": null,
+            "power": 0,
+            "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_SNUBBULL",
+            "form": 0,
+            "level": 7,
+            "item": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_SCARY_FACE",
+                "MOVE_CHARM",
+                "MOVE_BITE"
+            ],
+            "power": 0,
+            "ball_seal": 0
         }
     ]
 }

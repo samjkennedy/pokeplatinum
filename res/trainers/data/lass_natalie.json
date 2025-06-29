@@ -9,18 +9,18 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_SENTRET",
+            "species": "SPECIES_SPEAROW",
             "form": 0,
-            "level": 3,
+            "level": 5,
             "item": null,
             "moves": null,
             "power": 0,
             "ball_seal": 0
         },
         {
-            "species": "SPECIES_SPEAROW",
+            "species": "SPECIES_SUNKERN",
             "form": 0,
-            "level": 3,
+            "level": 5,
             "item": null,
             "moves": null,
             "power": 0,
