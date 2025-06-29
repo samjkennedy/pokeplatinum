@@ -38,14 +38,14 @@
             "ball_seal": 0
         },
         {
-            "species": "SPECIES_CRANIDOS",
+            "species": "SPECIES_SUDOWOODO",
             "form": 0,
             "level": 14,
             "item": null,
             "moves": [
-                "MOVE_HEADBUTT",
-                "MOVE_PURSUIT",
-                "MOVE_LEER"
+                "MOVE_WOOD_HAMMER",
+                "MOVE_ROCK_THROW",
+                "MOVE_LOW_KICK"
             ],
             "power": 50,
             "ball_seal": 0
